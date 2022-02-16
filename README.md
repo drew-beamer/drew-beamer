@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Drew.
+### I'm Drew. A computer science student looking to go into software development / data analytics.
 
 - 🔭 I’m currently working on several projects for 'Cats Stats, a student organization at Davidson that provides data analytics to coaches of our athletic programs.
 - 👨‍💻 I'm familiar with several languages and technologies, including Java, Python, Javascript (including React.js), C, and HTML/CSS.
