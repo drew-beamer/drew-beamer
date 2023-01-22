@@ -1,16 +1,12 @@
-### Hi there 👋
-### I'm Drew. A computer science student looking to go into software development / data analytics.
+# Hi there, I'm Drew Beamer 👋 
 
-- 🔭 I’m currently working on several projects for 'Cats Stats, a student organization at Davidson that provides data analytics to coaches of our athletic programs.
-- 🏀 I'm a huge Davidson basketball fan and run a Twitter page about the team [@DavidsonDecoded](https://twitter.com/DavidsonDecoded).
-- 👨‍💻 I'm familiar with several languages and technologies, including Java, Python, Javascript (including React.js), C, and HTML/CSS.
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I've seen over 790 species of birds worldwide.
+## Introduction
+Welcome to my GitHub profile! I am a student studying computer science at Davidson College, hoping to eventually go into web application development. I enjoy working on projects that involve React, and am working to continue acquanting myself with the Next.js framework. In my spare time, I love to birdwatch and have seen over 800 species globally. 
 
-<!--
-**drew-beamer/drew-beamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to browse through my repositories and if you have any questions or feedback, don't hesitate to reach out to me. Thanks for visiting!
 
-Here are some ideas to get you started:
-
-
--->
+## Links and Things 🖥️
+Here are some links to a few of my other projects/accounts that I run:
+- Blog/Portfolio Website: [https://drewbeamer.vercel.app](https://drewbeamer.vercel.app) (also check out the repository!)
+- Instagram: [@crazed4birds](https://instagram.com/crazed4birds)
+- Twitter: [@DavidsonDecoded](https://twitter.com/DavidsonDecoded)
