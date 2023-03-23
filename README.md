@@ -7,6 +7,6 @@ Feel free to browse through my repositories and if you have any questions or fee
 
 ## Links and Things 🖥️
 Here are some links to a few of my other projects/accounts that I run:
-- Blog/Portfolio Website: [https://drewbeamer.vercel.app](https://drewbeamer.io) (also check out the [repository](https://github.com/drew-beamer/nextjs-blog)!)
+- Blog/Portfolio Website: [https://drewbeamer.io](https://drewbeamer.io) (also check out the [repository](https://github.com/drew-beamer/nextjs-blog)!)
 - Instagram: [@crazed4birds](https://instagram.com/crazed4birds)
 - Twitter: [@DavidsonDecoded](https://twitter.com/DavidsonDecoded)
