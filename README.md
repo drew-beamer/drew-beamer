@@ -16,6 +16,6 @@ Other: Docker, PostgreSQL, Drizzle ORM, Tailwind CSS, React, Node.js, FastAPI
 
 | Name                                                    | Description                                                                                              | Tech Stack                                     |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| [ Personal Website ] ( https://drewtils.xyz )           | My personal website built with Next.js and TypeScript                                                    | Astro, TypeScript, Tailwind CSS                |
+| [Personal Website](https://drewtils.xyz)                | My personal website built with Next.js and TypeScript                                                    | Astro, TypeScript, Tailwind CSS                |
 | [ScrubJay](https://github.com/drew-beamer/scrubjay)     | A rare bird alert Discord bot                                                                            | Discord.js, Typescript, Docker                 |
 | [Polar Edge Analytics](https://scout.yetirobotics.org/) | An open-data, open-source analytics platform for FRC. As a YETI mentor, I help maintain the application. | Next.js, Typescript, Tailwind CSS, Drizzle ORM |
