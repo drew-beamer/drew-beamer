@@ -1,12 +1,21 @@
-# Hi there, I'm Drew Beamer 👋 
+# Drew Beamer
 
-## Introduction
-Welcome to my GitHub profile! I am a student studying computer science at Davidson College, hoping to eventually go into web application development. I enjoy working on projects that involve React, and am working to continue acquanting myself with the Next.js framework. In my spare time, I love to birdwatch and have seen over 1000 species globally. 
+## About Me
 
-Feel free to browse through my repositories and if you have any questions or feedback, don't hesitate to reach out to me. Thanks for visiting!
+I'm a software engineer specializing in building modern, performant web applications. My expertise lies in creating scalable solutions using the latest web technologies, with a particular focus on the Next.js ecosystem.
 
-## Links and Things 🖥️
-Here are some links to a few of my other projects/accounts that I run:
-- Blog/Portfolio Website: [https://drewbeamer.io](https://drewbeamer.io) (also check out the [repository](https://github.com/drew-beamer/nextjs-blog)!)
-- Instagram: [@crazed4birds](https://instagram.com/crazed4birds)
-- Twitter: [@DavidsonDecoded](https://twitter.com/DavidsonDecoded)
+In my free time, I mentor FIRST Robotics Competition 3506, YETI Robotics. YETI is a team of high school students and industry mentors who build robots to compete in the FIRST Robotics Competition. As a mentor, I help students learn about software development, web technologies, and robotics programming.
+
+## My Stack
+
+Frameworks: Next.js, Astro
+Languages: TypeScript/JavaScript, Java, Python
+Other: Docker, PostgreSQL, Drizzle ORM, Tailwind CSS, React, Node.js, FastAPI
+
+## Featured Projects
+
+| Name                                                    | Description                                                                                              | Tech Stack                                     |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| [ Personal Website ] ( https://drewtils.xyz )           | My personal website built with Next.js and TypeScript                                                    | Astro, TypeScript, Tailwind CSS                |
+| [ScrubJay](https://github.com/drew-beamer/scrubjay)     | A rare bird alert Discord bot                                                                            | Discord.js, Typescript, Docker                 |
+| [Polar Edge Analytics](https://scout.yetirobotics.org/) | An open-data, open-source analytics platform for FRC. As a YETI mentor, I help maintain the application. | Next.js, Typescript, Tailwind CSS, Drizzle ORM |
